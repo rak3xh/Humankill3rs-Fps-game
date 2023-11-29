@@ -1,0 +1,4 @@
+﻿  HumanKillers.cpp
+C:\Users\rakes\source\repos\HumanKillers\HumanKillers\HumanKillers.cpp(156,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\rakes\source\repos\HumanKillers\HumanKillers\HumanKillers.cpp(165,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  HumanKillers.vcxproj -> C:\Users\rakes\source\repos\HumanKillers\x64\Debug\HumanKillers.exe
