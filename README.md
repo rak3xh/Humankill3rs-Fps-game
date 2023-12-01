@@ -32,7 +32,7 @@ The most interesting parameters to modify are the global variables in the Humank
 
 ## Compiling and Executing
 
-For this project to work, you will need the ncurses library (libncurses5-dev) and to give the flag "-lncursesw" to the compiler. Like in the exemple of compiling and running bellow:
+For this project to work, you will need the ncurses library (allegro5-dev) and to give the flag "-allegro5" to the compiler. Like in the exemple of compiling and running bellow:
 
 ```bash
 g++ -o Humankillers Humankillers.cpp -allegro5./Humankillers
