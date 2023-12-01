@@ -1,7 +1,17 @@
+<div align="center">
+
+[![forthebadge](https://forthebadge.com/images/badges/made-with-c-plus-plus.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com) &nbsp;
+[![forthebadge](https://forthebadge.com/images/badges/open-source.svg)](https://forthebadge.com) &nbsp;
+
+</div>
+
 # Humankill3rs-Fps-game
 
-<img title="name" alt="Name" src="/images/HUM.PNG">
-This project is an implementation for ncurses of a FPS that runs on the terminal like a Console Program!
+<p align="left"><a href="https://imgbb.com/"><img src="https://i.ibb.co/3Ytq59P/HUM.png" alt="HUM" border="0"></a>
+</p>
+
+**This project is an implementation for ncurses of a FPS that runs on the terminal like a Console Program!**
 
 ## Controls
 
@@ -32,7 +42,9 @@ You will probably need to resize your terminal font-size or window-size to match
 
 ## ScreenShots
 
-<img title="main" alt="Main-Menu" src="/images/MAIN.PNG">
-<img title="New-game" alt="New-Game" src="/images/NEW.PNG">
-<img title="pause" alt="Pause" src="/images/PAUSE.PNG">
-<img title="game" alt="Enemy & HUD" src="/images/ENEMY.PNG">
+<div align="left">
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/B63Vpbp/MAIN.png" alt="MAIN" border="0"></a></p>
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/7tmJjfj/NEW.png" alt="NEW" border="0"></a></p>
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/1J9gGXw/OPTON.png" alt="OPTON" border="0"></a></p>
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/dfkbtPJ/PAUSE.png" alt="PAUSE" border="0"></a></p>
+<p><a href="https://imgbb.com/"><img src="https://i.ibb.co/7JTHs7z/ENEMY.png" alt="ENEMY" border="0"></a></p>
